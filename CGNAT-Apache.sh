@@ -12,7 +12,7 @@
 TEMPLATE_DIR="/usr/local/psa/admin/conf/templates/custom/"
 TEMPLATE_FILE="server.php"
 TEMPLATE_URL="https://raw.githubusercontent.com/guilhermesaid/plesk_cs/refs/heads/main/server.php"
-PLESK_PHP_PATH="/opt/plesk/php/8.2/bin/php"
+PLESK_PHP_PATH="/opt/plesk/php/8.0/bin/php"
 
 # 2. Criar pasta de template customizado
 echo "Criando pasta de template customizado..."
